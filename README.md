@@ -22,7 +22,7 @@ rojo build --plugin EDSE.rbxm       # builds straight into Studio's Plugins fold
 
 Restart Studio (or reload plugins). The **EDSE** button appears in the Plugins tab and opens the **EDSE Easy DataStore Editor** window.
 
-### Keyboard shortcuts
+## Keyboard shortcuts
 
 EDSE registers these actions. Bind keys to them in **File → Customize Shortcuts** (search "EDSE"):
 
