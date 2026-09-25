@@ -1,0 +1,5 @@
+std = "roblox"
+
+[lints]
+# Luau type annotations make some shadowing intentional (e.g. narrowing locals).
+shadowing = "allow"
